@@ -1,4 +1,4 @@
-[# Project1-Rehber
+# Project1-Rehber
 PROJE-1 : Console Telefon Rehberi Uygulaması
 
 
